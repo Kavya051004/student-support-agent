@@ -1,0 +1,39 @@
+[
+  {
+    "approval_id": "AP-0001",
+    "student_id": "S1001",
+    "action": "update_contact_details",
+    "args": {
+      "field": "phone",
+      "new_value": "9876501234",
+      "student_id": "S1001"
+    },
+    "requested_by": "S1001",
+    "requested_at": "2026-11-02T18:02:49",
+    "status": "approved",
+    "decided_by": "STAFF01",
+    "decided_at": "2026-11-02T18:02:59",
+    "note": "eval",
+    "result": {
+      "status": "updated",
+      "field": "phone"
+    }
+  },
+  {
+    "approval_id": "AP-0002",
+    "student_id": "S1002",
+    "action": "update_contact_details",
+    "args": {
+      "field": "email",
+      "new_value": "diya.new@example.com",
+      "student_id": "S1002"
+    },
+    "requested_by": "S1002",
+    "requested_at": "2026-11-02T18:03:00",
+    "status": "rejected",
+    "decided_by": "STAFF01",
+    "decided_at": "2026-11-02T18:03:11",
+    "note": "eval",
+    "result": null
+  }
+]

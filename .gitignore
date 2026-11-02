@@ -1,0 +1,16 @@
+# secrets - never upload
+.env
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# files created while you run the demo (your real evidence is copied into results/)
+runtime/
+
+# editor / OS
+.vscode/
+.DS_Store

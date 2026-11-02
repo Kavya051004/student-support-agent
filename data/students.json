@@ -1,0 +1,105 @@
+[
+  {
+    "student_id": "S1001",
+    "name": "Aarav Mehta",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "batch": "2025-27",
+    "email": "aarav.mehta@example.edu",
+    "phone": "9876500001",
+    "fee": {
+      "total_fee": 900000,
+      "paid": 600000,
+      "due_amount": 300000,
+      "next_due_date": "2026-11-15",
+      "status": "Pending"
+    },
+    "scholarship": {
+      "name": "Merit Scholarship",
+      "percent": 25,
+      "status": "Active",
+      "amount_per_year": 225000,
+      "next_review": "2027-06-30"
+    },
+    "password_hash": "salt1001$7abeebcea029afae6ba66f1c72333f6ad6df7eeb1e64194dcaca6c9a5e31b02c"
+  },
+  {
+    "student_id": "S1002",
+    "name": "Diya Nair",
+    "programme": "PGDM (Big Data Analytics)",
+    "batch": "2025-27",
+    "email": "diya.nair@example.edu",
+    "phone": "9876500002",
+    "fee": {
+      "total_fee": 1100000,
+      "paid": 1100000,
+      "due_amount": 0,
+      "next_due_date": null,
+      "status": "Paid"
+    },
+    "scholarship": {
+      "name": "Need-Based Aid",
+      "percent": 40,
+      "status": "Under Review",
+      "amount_per_year": 440000,
+      "next_review": "2026-12-31"
+    },
+    "password_hash": "salt1002$0b2e34586a75d2e0c0612274473d99ad3db5096af244c14ceefe20be482f75f7"
+  },
+  {
+    "student_id": "S1003",
+    "name": "Rohan Kulkarni",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "batch": "2025-27",
+    "email": "rohan.kulkarni@example.edu",
+    "phone": "9876500003",
+    "fee": {
+      "total_fee": 850000,
+      "paid": 400000,
+      "due_amount": 450000,
+      "next_due_date": "2026-10-15",
+      "status": "Overdue"
+    },
+    "scholarship": {
+      "name": "Corporate Sponsorship - Northwind Ltd",
+      "percent": 50,
+      "status": "Active",
+      "amount_per_year": 425000,
+      "next_review": "2027-03-31"
+    },
+    "password_hash": "salt1003$e416ead0b590cb03b1ec4eeba68c0f2a29c8ec5cf7efc329d5591f1781533b33"
+  },
+  {
+    "student_id": "S1004",
+    "name": "Sneha Reddy",
+    "programme": "PGDM (Big Data Analytics)",
+    "batch": "2025-27",
+    "email": "sneha.reddy@example.edu",
+    "phone": "9876500004",
+    "fee": {
+      "total_fee": 950000,
+      "paid": 650000,
+      "due_amount": 300000,
+      "next_due_date": "2026-11-15",
+      "status": "Partially Paid"
+    },
+    "scholarship": {
+      "name": "Merit Scholarship",
+      "percent": 15,
+      "status": "Active",
+      "amount_per_year": 142500,
+      "next_review": "2027-06-30"
+    },
+    "password_hash": "salt1004$5980a53a4dd4b631b38787a9d59af8ac82c4a31cc8fe8174e0e95c7e0a01c2e5"
+  },
+  {
+    "student_id": "S1005",
+    "name": "Kabir Singh",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "batch": "2025-27",
+    "email": "kabir.singh@example.edu",
+    "phone": "9876500005",
+    "fee": null,
+    "scholarship": null,
+    "password_hash": "salt1005$9648471559e7d4fed12c9a5847681029919c4f78c9190f6c8a7dd7c8b7bec77c"
+  }
+]
